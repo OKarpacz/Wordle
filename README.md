@@ -1,4 +1,4 @@
-# Wordle Game
+# Wordle Game 🕹️
 
 ## Overview
 Wordle is a word-guessing game where players have a limited number of attempts to guess a hidden 5-letter word. Feedback is provided for each guess, indicating which letters are correct and in the right position, which are correct but in the wrong position, and which are not in the word at all.
